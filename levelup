@@ -1,0 +1,21 @@
+This is Git's per-user configuration file.
+[user]
+	name = manjupriya54
+	emal = amananu5465@gmail.com
+	email = manjupriya401@gmail.com
+# Please adapt and uncomment the following lines:
+#	name = unknown
+#	email = S@S-PC.(none)
+[core]
+	editor = notepad++.exe -multinst -nosession
+[gui]
+	recentrepo = C:/Users/S/jani542
+
+
+
+
+
+
+
+
+
