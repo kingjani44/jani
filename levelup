@@ -10,6 +10,8 @@ This is Git's per-user configuration file.
 	editor = notepad++.exe -multinst -nosession
 [gui]
 	recentrepo = C:/Users/S/jani542
+	welcome to my world this is janiking
+	
 
 
 
